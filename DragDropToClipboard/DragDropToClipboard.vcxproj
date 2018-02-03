@@ -167,6 +167,8 @@
     <ResourceCompile Include="DragDropToClipboard.rc" />
   </ItemGroup>
   <ItemGroup>
+    <Image Include="arrow.bmp" />
+    <Image Include="bitmap2.bmp" />
     <Image Include="DragDropToClipboard.ico" />
     <Image Include="drop.bmp" />
   </ItemGroup>

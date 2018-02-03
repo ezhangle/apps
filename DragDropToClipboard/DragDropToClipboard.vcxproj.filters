@@ -48,5 +48,11 @@
     <Image Include="drop.bmp">
       <Filter>Resource Files</Filter>
     </Image>
+    <Image Include="bitmap2.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="arrow.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
   </ItemGroup>
 </Project>
